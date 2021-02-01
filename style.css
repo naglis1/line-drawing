@@ -34,12 +34,6 @@ nav{
 .o, .col:hover{
 	background: green;
 }
-.time{
-	margin-left: 20px;
-	padding: 10px;
-	background: #4f7339;
-	float: left;
-}
 footer{
 	margin-top: 25%;
 	text-align: left;
